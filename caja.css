@@ -1,0 +1,226 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body{ background: lightblue;
+color: black; }
+
+
+.contenedor{
+
+	margin: 20px auto;
+	background: white;
+	width: 90%;
+	height: 1000px;
+	
+}
+
+.seccion1{
+	float: left;	
+	background: red;
+	width: 100%;
+	height: 400px;
+}
+
+.seccion1-part1{
+	float: left;
+	background: black;
+	width: 50%;
+	height: 100%;
+}
+.seccion1-part1-contenido1{
+	float: left;
+	width: 90%;
+	height:100%;
+	background:gray;
+}
+.seccion1-parte1-caja1{
+	width: 70%;
+	height: 80%;
+	float: left;
+	background: red;
+}
+
+.seccion1-parte-1-caja1-contenido1{
+	width: 100%;
+	height: 50%;
+	background: green;
+	float: left;
+}
+.seccion1-parte1-caja2{
+	width: 30%;
+	height: 56%;
+	float: left;
+	background: white;
+}
+.seccion1-part2{
+	float: left;
+	background: white;
+	width: 50%;
+	height: 100%;
+}
+.seccion1-part2-contenido1{
+	width: 90%;
+	height: 100%;
+	float: right;
+	background: gray;
+}
+
+.seccion1-part2-contenido1-caja1{
+	float: left;
+	width: 50%;
+	height:50%;
+	background: yellow;
+}
+.seccion1-part2-contenido1-caja2{
+	float: left;
+	width: 50%;
+	height:50%;
+	background: black;
+}
+.seccion1-part2-contenido1-caja3{
+	float: left;
+	width: 50%;
+	height:50%;
+	background: black;
+}
+.seccion1-part2-contenido1-caja4{
+	float: left;
+	width: 50%;
+	height:50%;
+	background: yellow;
+}
+.seccion2{
+	float: left;
+	background: blue;
+	width: 100%;
+	height: 400px;
+}
+
+.seccion2-parte1{
+	float: left;
+	background: red;
+	width: 45%;
+	height: 100%;
+}
+.seccion2-parte1-contenido1{
+	float: left;
+	width: 80%;
+	height: 100%;
+
+}
+
+.seccion2-parte1-contenido1-caja1{
+	background: #A9CCE3;
+	float: left;
+	width: 100%;
+	height:50%;
+
+}
+.seccion2-parte1-contenido1-caja2{
+	background:  #D98880;
+	float: left;
+	width: 100%;
+	height:50%;
+}
+
+.seccion2-parte1-contenido2{
+	width: 20%;
+	height: 100%;
+	float: left;
+
+}
+.seccion2-parte1-contenido2-contenido1{
+	width: 100%;
+	height:33.33%;
+	background: #82E0AA;
+	float: left;
+}
+.seccion2-parte1-contenido2-contenido2{
+	width: 100%;
+	height:33.33%;
+	background: #F7DC6F;
+	float: left;
+
+}
+.seccion2-parte1-contenido2-contenido3{
+	width: 100%;
+	height:33.33%;
+	background:#CACFD2;
+	float: left;	
+}
+.seccion2-parte2{
+	float: right;
+	background: green;
+	width: 50%;
+	height: 100%;
+}
+.seccion2-parte2-contenido1{
+	background: #F5B041 ;
+	width: 100%;
+	height: 33.33%;
+	float: left;
+}
+.seccion2-parte2-contenido2{
+	background: #D0D3D4;
+	width: 100%;
+	height: 33.33%;
+	float: left;
+}
+.seccion2-parte2-contenido3{
+	background: #4A235A;
+	width: 80%;
+	height: 33.33%;
+	float: left;
+}
+/*.seccion2-parte1-contenido2-contenido4{
+	background: white;
+	float: left;
+	width: 20%;
+	height: 100%;
+}*/
+.seccion3{
+	float: left;
+	background: yellow;
+	width: 100%;
+	height: 200px;
+}
+.seccion3-parte1{
+	background: #9966FF  ;
+	width: 10%;
+	float: left;
+	height: 100%;
+}
+.seccion3-parte2{
+	background: #00CC33;
+	float: left;
+	width: 26%;
+	height: 100%;
+}
+.seccion3-parte3{
+	background: #00CCFF;
+	float: left;
+	width: 11.5%;
+	height: 100%;
+
+}
+.seccion3-parte4{
+	background: #0099FF;
+	float: left;
+	width: 32.5%;
+	height: 100%;
+}
+.seccion3-parte5{
+	background: #0033FF  ;
+	width: 10%;
+	float: left;
+	height: 100%;
+}
+	.seccion3-parte6{
+		background: #009933;
+		width: 10%;
+		float: left;
+		height: 100%;
+
+	}
